@@ -1,0 +1,22 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenajar/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenajar/blog/issues"
+  },
+  "homepage": "https://github.com/helenajar/blog#readme",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  }
+}
