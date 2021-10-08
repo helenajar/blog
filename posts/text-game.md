@@ -1,0 +1,30 @@
+---
+pageTitle: Making a text adventure game
+tag: Design
+description: “Valdivia” is a text adventure game about ancestry, feelings and family.It revolves around an unnamed main character, a woman, who is on a quest to save her family from being torn apart...
+dately: December 2018
+picture: valdivia-collage.png
+pictag: 01 -  Visual for the game.
+date: 2018-12-01
+
+---
+
+“Valdivia” is a text adventure game about ancestry, feelings and family.  <a href="https://helena.computer/valdivia/">   Play it here.</a> 
+
+It revolves around an unnamed main character, a woman, who is on a quest to save her family from being torn apart. During the time that she has to save her family, she encounters mysterious spirits of her ancestors. Like her ancestors, she is not one sided; she is passionate, brave, risky, angry, curious and sad. This post is about making the game.
+
+Like many projects, the thinking for this was buzzing around for a while but it really came together this summer when I was unemployed and collaging. While browsing for images to use, I found some related to Ecuador in the NY Digital Collection and The Met’s Collection. Those images led me to learning about the people and culture from my grandfather’s hometown: the Valdivia culture.
+
+This inspired me to write a story about families: my own and the families who are being torn apart by the U.S government. The heroine in this game is trying to keep her family together. In my game, there is a magic bullet: the ring. Sadly, there is no such magic bullet in real life but there are ways to help.
+
+I never glued anything together so I could keep rearranging. After printing and cutting the visuals, I rearranged them to make multiple scenes or collages. Each collage would become a part of the story, or a character in the story. Using the visuals was a helpful constraint in writing the story. Later, I also added secondary visuals from Google photos.
+
+While the visuals helped me form characters and a general story arch, I still had to make multiple endings! This was difficult. Having never written a multiple story ending before, I played around with a few different products. At the beginning, having a visual flow helped to see how many parts I would need. Later, a Google Doc with tables for each section of the story was more useful than the flow. Note that my story is very, very short – so I am not sure if Docs would work well for a longer story.
+
+What really helped write it though, was putting the story in code. Luckily, I had begun coding a version of the site over a year beforehand. It began as as an interactive poem about Japan.
+
+Using React and Flexbox – each part of the story is a React state with its’ own copy, images and layout. You can find it on Github here. It was an an exploration of layouts that would force the user to think before making progress – the opposite of an infinite scroll.
+
+Ever since clicking through Olia Lialina’s My Boyfriend Came Back from the War years ago, I’ve wanted to make a type of text game. What I made, however, is much more clear-cut than the lovely abstract poetry of Lialina. I was motivated to make more of a narrative through the game of Morgane Santos and her writing on the subject. At the time I was making Valdivia, Nicole He‘s game also came out, which I loved. Visually I looked to work in the spirit of Frank Chimero’s collages, 90’s Apple and Mondrian.
+
+It’s not a perfect game and it’s also a very short game, but It was a fun and surprisingly personal experience.

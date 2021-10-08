@@ -1,0 +1,20 @@
+---
+pageTitle: Fun - Everywwwhere
+tags: index
+layout: indexgrid.liquid
+---
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<div class="grid">
+    <div class="grid-sizer"></div>
+    <div class="gutter-sizer"></div>
+    {% for picture in collections.pictures reversed -%}
+        <div class="grid-item">
+            <img class="animate-in" src="img/{{picture.data.picture}}"/>
+            <h2 class="left"><a href="{{ fdfpicture.url }}">{{ picture.data.pageTitle }}</a></h2>
+            <h2 class="right"><a href="{{ fdfpicture.url }}">{{ picture.data.year }}</a></h2>
+        </div>
+    {% endfor %}  
+</div>
+<p style="color:var(--tertiary-color)"> All made by h.jaramillo for fun.</p> 

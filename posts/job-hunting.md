@@ -1,0 +1,26 @@
+---
+pageTitle: Choosing a tech job
+tag: Personal
+description: In the last year, I quit two jobs and found two new jobs.  In both job searches, the interviewers treated my candidacy as if I was joining their congregation, rather than joining them as an employee.
+dately: May 2019
+picture: collage-computers.jpg
+pictag: 01 -  Clicking myself to self-actualization.
+date: 2019-05-01
+---
+In the last year, I quit two jobs and found two new jobs. In both job searches, the interviewers treated my candidacy as if I was joining their congregation, rather than joining them as an employee.
+
+“Why do you believe in this? What are your values?”
+
+I don’t necessarily disagree with this process. But in tech, it feels almost rude to say the plain truth: this is a job. Ultimately, we take these jobs because we need a salary to support our families and pay rent and things like shoes and a vacation or two. This is what work, the paid kind, is for.
+
+If we’re lucky, which I was, we may find a job that allows us to work with people we can learn and laugh with, to become better at our craft, and challenges us intellectually. But even that’s asking a lot.
+
+In my previous job search, I was looking for work that would give me that and more: a sense of purpose and a sense that I was doing right in the world. I guess I was looking for that elusive goal of doing “good in tech”. I thought that by taking a job that I felt was doing good for the world, then I too would be doing good for the world and for myself. I joined a great organization, and it did feel nice.
+
+But it was still work – the paid kind. I still wanted time to do work – the unpaid kind. Even though yes this was good work, it still wasn’t my work.
+
+My work, is the unpaid kind, the personal kind, the kind that nobody asks for, possibly nobody wants – but me. I can choose my own questions, problems, and colors. I don’t have to sell it or profit from it because I have my paid work that funds it. It’s done at night or on the weekends because I do it because I enjoy it. And when it gets boring or I drift to other thoughts, I can take a break from it. It can take many forms or mediums because it may never go on my portfolio.
+
+In regards to doing “good in tech”, I am working on a product that I feel adds a net good to the world, but definitely doesn’t provide a social good. But I am finding other ways to try and do good through volunteering, donating and listening.
+
+Ultimately, what felt best for me was to keep the value that I get from these two types of work, paid and unpaid, separate. I’d like a job that allows me to learn from others, work within complex constraints and pays me enough to have my unpaid work, which allows me to ask my own questions and fulfills me.

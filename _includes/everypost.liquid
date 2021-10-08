@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ pageTitle }}</title>
+        <link rel="stylesheet" href="/style.css">
+        <link rel='icon' href=''../assets/favicon.ico' type='image/x-icon'/ >
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="{{ pageTitle }}" />
+        <meta property="og:image" content="https://everywwwhere.net/posts/img/{{picture}}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="By H.Jaramillo" />
+        <meta name="twitter:title" content="{{pageTitle}}" />
+        <meta name="twitter:image" content="https://everywwwhere.net/posts/img/{{picture}}" />
+
+    </head>
+    <body>
+        <div class="nav">
+            <ul class="left">
+               <h2><a href="/"> h.jaramillo</a></h2>
+            </ul>
+            <ul class="right">
+                <li><a href="/">about</a></li>
+                <li><a class="active" href="/posts">writing</a></li>
+                <li><a href="/pictures">fun</a></li>
+            </ul>
+        </div>
+    <div class="footer nav">
+        <ul class="right">
+            <li><a href="https://twitter.com/helenajar"><img src="/assets/twitter.svg"/></a></li>
+            <li><a href="https://coda.io/@helena"><img src="/assets/coda.svg"/></a></li>
+            </ul>
+    </div>
+    <div class="row">
+       <div class="column accent bg-black">
+            <div class="content">
+                <img class="animate-in" loading="lazy" src="../img/{{picture}}"/>
+                <p> {{ pictag }} </p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content post">
+                <h2>{{tag}}</a>
+                <h1>{{ pageTitle }}</h1>
+                <h2>Written on {{dately}}</a>
+                <h2 style="margin-bottom:32px";>—</h2>
+                <p>{{ content }}</p>
+                <a class="postfooter" href="/posts"> ⟵  More posts </a>
+            </div>
+        </div>
+
+    </div>
+    </body>
+</html>
